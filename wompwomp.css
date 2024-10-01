@@ -52,3 +52,13 @@
   .column {
     flex: 50%;
   }
+
+
+
+
+
+  .sticky {
+    position: fixed;
+    width: 100%;
+  }
+  
